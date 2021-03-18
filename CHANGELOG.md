@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/Fdawgs/ydh-logos/compare/v1.0.1...v1.0.2) (2021-03-18)
+
+
+### Miscellaneous
+
+* **prettierignore:** add lock files ([893c402](https://www.github.com/Fdawgs/ydh-logos/commit/893c4026dade5743fe0ce996baf09952046ac6b9))
+* **workflows:** remove whitespace ([21b3fe0](https://www.github.com/Fdawgs/ydh-logos/commit/21b3fe058605b1ea1764c845be0c09f67ad25093))
+
 ### [1.0.1](https://www.github.com/Fdawgs/ydh-logos/compare/v1.0.0...v1.0.1) (2021-03-18)
 
 
