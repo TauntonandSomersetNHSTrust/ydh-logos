@@ -1,6 +1,6 @@
 {
   "name": "ydh-logos",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Yeovil District Hospital NHSFT's Logos",
   "main": "src/app.js",
   "repository": "git+https://github.com/Fdawgs/ydh-logos.git",
