@@ -14,25 +14,22 @@
     "node": ">=10.22.0"
   },
   "scripts": {
+    "lint:commit-msg": "commitlint -e $1",
     "lint:prettier": "prettier . --write --ignore-unknown",
-    "lint:prettier:ci": "prettier . --check --ignore-unknown"
+    "lint:prettier:ci": "prettier . --check --ignore-unknown",
+    "prepare": "husky install && rm -rf .git/hooks && ln -s ../.husky .git/hooks",
+    "test": "npm run lint:prettier:ci"
   },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
     ]
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-push": "npm run lint:prettier:ci"
-    }
-  },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
     "@prettier/plugin-xml": "^0.13.1",
-    "husky": "~6",
+    "husky": "^6.0.0",
     "prettier": "2.2.1"
   }
 }
