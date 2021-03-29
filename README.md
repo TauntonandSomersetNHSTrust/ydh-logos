@@ -1,3 +1,5 @@
+<img alttext="Yeovil District Hospital Logo" src="https://github.com/Fdawgs/ydh-logos/blob/master/images/ydh-full-logo-transparent-background.svg" width="480" />
+
 # Yeovil District Hospital NHS Foundation Trust - Logos
 
 [![GitHub Release](https://img.shields.io/github/release/Fdawgs/ydh-logos.svg)](https://github.com/Fdawgs/ydh-logos/releases/latest/)
