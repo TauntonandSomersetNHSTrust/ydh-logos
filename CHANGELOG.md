@@ -1,5 +1,30 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/Fdawgs/ydh-logos/compare/v1.1.0...v1.1.1) (2021-04-14)
+
+
+### Documentation
+
+* **readme:** use head for image ([81234b5](https://www.github.com/Fdawgs/ydh-logos/commit/81234b5a86ce20141c5d3d9eae4bc53b517f9626))
+
+
+### Miscellaneous
+
+* **package:** remove unused script ([47e6402](https://www.github.com/Fdawgs/ydh-logos/commit/47e6402e6d2f2508089cd9e286efb6233162d71a))
+
+
+### Dependencies
+
+* **deps:** bump actions/github-script from v3.1.0 to v3.1.1 ([67e6bf6](https://www.github.com/Fdawgs/ydh-logos/commit/67e6bf6ed94ddd611770c169c16e71728c469c72))
+* **deps:** bump typoci/spellcheck-action from v0.3.0 to v0.4.0 ([3605f3b](https://www.github.com/Fdawgs/ydh-logos/commit/3605f3b00da76eceafb67f534adfd72ff3a8a97c))
+
+
+### Continuous Integration
+
+* fix syntax ([13c0425](https://www.github.com/Fdawgs/ydh-logos/commit/13c0425395c956a9198eed1b8eb403a312409dd5))
+* **link-check:** fix skip regex ([73e4fb4](https://www.github.com/Fdawgs/ydh-logos/commit/73e4fb45fe479b6fc0a3ab90ef67eab37b603a69))
+* **workflows:** run only on push and pulls to master branch ([9ddeda7](https://www.github.com/Fdawgs/ydh-logos/commit/9ddeda76846bdcc4ad7be0400a1a1f7bc5b5c5ba))
+
 ## [1.1.0](https://www.github.com/Fdawgs/ydh-logos/compare/v1.0.1...v1.1.0) (2021-03-29)
 
 
