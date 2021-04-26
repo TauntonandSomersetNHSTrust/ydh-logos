@@ -11,7 +11,7 @@
 	"license": "OGL-UK-3.0",
 	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
 	"engines": {
-		"node": ">=10.22.0"
+		"node": ">=12.0.0"
 	},
 	"scripts": {
 		"lint:prettier": "prettier . --write --ignore-unknown",
