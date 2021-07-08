@@ -1,5 +1,33 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/Fdawgs/ydh-logos/compare/v2.0.0...v2.0.1) (2021-07-08)
+
+
+### Continuous Integration
+
+* **cd:** move perf optimizations and refactoring into same section ([b8a3b8c](https://www.github.com/Fdawgs/ydh-logos/commit/b8a3b8c4a9c0bb6f6f6fee30a82116c842fce487))
+* fix key usage in `action/setup-node` ([50a0721](https://www.github.com/Fdawgs/ydh-logos/commit/50a072150aa5828093551634efb63f0865137d95))
+* **link-check:** reduce frequency from daily to monthly ([#38](https://www.github.com/Fdawgs/ydh-logos/issues/38)) ([d3c6991](https://www.github.com/Fdawgs/ydh-logos/commit/d3c69911431d75cea06c89af6059446327ae78d0))
+
+
+### Dependencies
+
+* **deps-dev:** bump husky from 6.0.0 to 7.0.0 ([b545406](https://www.github.com/Fdawgs/ydh-logos/commit/b54540648e3e4930024fa8dd02ef3400b9a44bfe))
+* **deps-dev:** bump prettier from 2.2.1 to 2.3.0 ([4fb0230](https://www.github.com/Fdawgs/ydh-logos/commit/4fb0230db0eb65275aa4cab0b3f9b82f4160274f))
+* **deps-dev:** bump prettier from 2.3.0 to 2.3.2 ([552f8b4](https://www.github.com/Fdawgs/ydh-logos/commit/552f8b4a268bade49eac46f136a19056efabbe1e))
+* **deps:** bump actions/setup-node from 2.1.5 to 2.2.0 ([a50ad27](https://www.github.com/Fdawgs/ydh-logos/commit/a50ad2718030e1c98bbadd2999aedd4ea747e23f))
+* **deps:** bump actions/upload-artifact from 2.2.3 to 2.2.4 ([99c50cd](https://www.github.com/Fdawgs/ydh-logos/commit/99c50cd8869322225c3d203b2159e76ba6ce8852))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([fa3eec2](https://www.github.com/Fdawgs/ydh-logos/commit/fa3eec2b054c02e8405583c4d76ca9c03b859de6))
+* **deps:** bump peter-evans/create-pull-request from 3.8.2 to 3.10.0 ([942cabd](https://www.github.com/Fdawgs/ydh-logos/commit/942cabdf2142150b5f43f02399ce4184ec9a3dd9))
+* **deps:** bump wagoid/commitlint-github-action from 3.1.0 to 3.1.4 ([baa1785](https://www.github.com/Fdawgs/ydh-logos/commit/baa178590b56b02bfb98c81454f838421b7ed3a8))
+
+
+### Miscellaneous
+
+* **ci:** replace `node-version` key with shorter `node` ([#32](https://www.github.com/Fdawgs/ydh-logos/issues/32)) ([229262b](https://www.github.com/Fdawgs/ydh-logos/commit/229262b8478bd3ad06a6da8692d7c1eda58dd56c))
+* **vscode:** disable redhat telemetry ([679475e](https://www.github.com/Fdawgs/ydh-logos/commit/679475e0ff9903de1d12fc6df97a2173aa6a1d8e))
+* **workflows:** remove `stale.yml` ([4db8db9](https://www.github.com/Fdawgs/ydh-logos/commit/4db8db9d36f96fc790787863488fd2ba2578b109))
+
 ## [2.0.0](https://www.github.com/Fdawgs/ydh-logos/compare/v1.1.0...v2.0.0) (2021-04-30)
 
 
