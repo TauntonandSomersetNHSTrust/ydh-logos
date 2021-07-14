@@ -18,13 +18,3 @@ jobs:
               with:
                   changelog-types: '[ { "type": "feat", "section": "Features", "hidden": false }, { "type": "fix", "section": "Bug Fixes", "hidden": false }, { "type": "build", "section": "Dependencies", "hidden": false }, { "type": "chore", "section": "Miscellaneous", "hidden": false }, { "type": "ci", "section": "Continuous Integration", "hidden": false }, { "type": "perf", "section": "Improvements", "hidden": false }, { "type": "refactor", "section": "Improvements", "hidden": false }, { "type": "style", "section": "Miscellaneous", "hidden": false }, { "type": "docs", "section": "Documentation", "hidden": false }]'
                   release-type: node
-                  package-name: fastify-disablecache
-
-            - uses: actions/checkout@v2.3.4
-              if: steps.release.outputs.release_created
-
-            - uses: actions/setup-node@v2.2.0
-              with:
-                  node-version: 16
-                  registry-url: https://registry.npmjs.org/
-              if: steps.release.outputs.release_created
