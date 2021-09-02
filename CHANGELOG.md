@@ -1,5 +1,30 @@
 # Changelog
 
+### [2.1.1](https://www.github.com/Fdawgs/ydh-logos/compare/v2.1.0...v2.1.1) (2021-09-02)
+
+
+### Miscellaneous
+
+* **vscode:** remove user space config setting ([1d53da3](https://www.github.com/Fdawgs/ydh-logos/commit/1d53da3a17e651caa7024b8c57ebc521a326731a))
+
+
+### Continuous Integration
+
+* **cd:** remove leftover jobs ([736c2b2](https://www.github.com/Fdawgs/ydh-logos/commit/736c2b29245f447cf7952e508917db3fa3bafba2))
+
+
+### Dependencies
+
+* **deps-dev:** bump @commitlint/cli from 12.1.4 to 13.1.0 ([0569c29](https://www.github.com/Fdawgs/ydh-logos/commit/0569c297cc477ed42ef10f0b90b2c586c5aa42f5))
+* **deps-dev:** bump @commitlint/config-conventional ([c44f35a](https://www.github.com/Fdawgs/ydh-logos/commit/c44f35a52c14e0322defdd769a5fbc2d0575c17b))
+* **deps-dev:** bump @prettier/plugin-xml from 0.13.1 to 1.0.2 ([d39becb](https://www.github.com/Fdawgs/ydh-logos/commit/d39becb4e77f2669fbec46f8314ec0187fa96704))
+* **deps:** bump actions/github-script from 4.0.2 to 4.1 ([fdb8473](https://www.github.com/Fdawgs/ydh-logos/commit/fdb84731376384caf747b060d7b993d8ab30d181))
+* **deps:** bump actions/setup-node from 2.2.0 to 2.3.0 ([6dc99e9](https://www.github.com/Fdawgs/ydh-logos/commit/6dc99e92807c42cae58449d6f0771e7a96c7b417))
+* **deps:** bump actions/setup-node from 2.3.0 to 2.4.0 ([0b9ed83](https://www.github.com/Fdawgs/ydh-logos/commit/0b9ed8392ebe0577aa9bd02c783ceb76a790750b))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([e6831fd](https://www.github.com/Fdawgs/ydh-logos/commit/e6831fd528d83ec026332b26b76ef863278b59a9))
+* **deps:** bump peter-evans/create-pull-request from 3.10.0 to 3.10.1 ([7be378c](https://www.github.com/Fdawgs/ydh-logos/commit/7be378c20ade5e55a209c024d86b95d813f84b07))
+* **deps:** bump wagoid/commitlint-github-action from 3.1.4 to 4.1.1 ([1dc5e51](https://www.github.com/Fdawgs/ydh-logos/commit/1dc5e51445ecd026be690c5a3ad2914ec2086dd9))
+
 ## [2.1.0](https://www.github.com/Fdawgs/ydh-logos/compare/v2.0.0...v2.1.0) (2021-07-08)
 
 
