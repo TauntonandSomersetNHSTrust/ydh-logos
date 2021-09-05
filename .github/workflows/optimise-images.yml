@@ -31,6 +31,9 @@ jobs:
               uses: calibreapp/image-actions@1.1.0
               with:
                   githubToken: ${{ secrets.GITHUB_TOKEN }}
+                  jpegQuality: "100"
+                  pngQuality: "100"
+                  webpQuality: "100"
                   # For non-Pull Requests, run in compressOnly mode and PR after.
                   compressOnly: ${{ github.event_name != 'pull_request' }}
             - name: Create Pull Request
