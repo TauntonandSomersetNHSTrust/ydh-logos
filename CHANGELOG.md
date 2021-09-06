@@ -1,5 +1,25 @@
 # Changelog
 
+### [2.2.1](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.0...v2.2.1) (2021-09-06)
+
+
+### Improvements
+
+* re-compress favicon files ([#61](https://www.github.com/Fdawgs/ydh-logos/issues/61)) ([2c611bf](https://www.github.com/Fdawgs/ydh-logos/commit/2c611bfb61867ce326558f4feb87ee6e46156494))
+
+
+### Continuous Integration
+
+* **ci:** revert to workflow-run-clean-action from github concurrency ([25b7f61](https://www.github.com/Fdawgs/ydh-logos/commit/25b7f6191ee168e43346adaeb877737499369fa0))
+* **ci:** use github concurrency ([#59](https://www.github.com/Fdawgs/ydh-logos/issues/59)) ([2926e27](https://www.github.com/Fdawgs/ydh-logos/commit/2926e27329a25e27db8bc4b3edf527263bff2ef2))
+* **optimise-images:** retain image quality ([#60](https://www.github.com/Fdawgs/ydh-logos/issues/60)) ([97d704f](https://www.github.com/Fdawgs/ydh-logos/commit/97d704f24e0b43b848f77331eb52a23f81c1bd4a))
+
+
+### Miscellaneous
+
+* **.github:** use new YAML configured GitHub issue forms ([#57](https://www.github.com/Fdawgs/ydh-logos/issues/57)) ([b2a330a](https://www.github.com/Fdawgs/ydh-logos/commit/b2a330aa71626fee9990ff547ccb6825a2ca4b24))
+* **images/favicons:** lint svg safari logo ([f76318b](https://www.github.com/Fdawgs/ydh-logos/commit/f76318b3742533044ac8d0f47404f440aba57ffa))
+
 ## [2.2.0](https://www.github.com/Fdawgs/ydh-logos/compare/v2.1.0...v2.2.0) (2021-09-02)
 
 
