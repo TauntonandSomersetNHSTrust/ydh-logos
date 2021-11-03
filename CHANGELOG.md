@@ -1,5 +1,43 @@
 # Changelog
 
+### [2.2.2](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.1...v2.2.2) (2021-11-03)
+
+
+### Continuous Integration
+
+* **automerge:** update location of octokit rest methods ([e74d270](https://www.github.com/Fdawgs/ydh-logos/commit/e74d270b8f4a433c17a68eaddf7c5fc17505a548))
+
+
+### Documentation
+
+* bump coc from v2.0.0 to v2.1.0 ([#70](https://www.github.com/Fdawgs/ydh-logos/issues/70)) ([768b40c](https://www.github.com/Fdawgs/ydh-logos/commit/768b40c122a870db45ecb4ae8fdb3b96f1309549))
+* **readme:** add link to hospital logo ([4120fee](https://www.github.com/Fdawgs/ydh-logos/commit/4120feef90e97802f38979049595e8128db602fa))
+
+
+### Dependencies
+
+* **deps-dev:** bump @commitlint/cli from 13.2.1 to 14.1.0 ([910eea8](https://www.github.com/Fdawgs/ydh-logos/commit/910eea8e262f01e1ac1d6f22af285ada2b545b28))
+* **deps-dev:** bump @commitlint/config-conventional ([07e8644](https://www.github.com/Fdawgs/ydh-logos/commit/07e8644a8b024998df85dc5eb15e98ad71971652))
+* **deps-dev:** bump dev dependencies ([05fa535](https://www.github.com/Fdawgs/ydh-logos/commit/05fa5353b00202a4f1b759114f44a48bf9ed536b))
+* **deps-dev:** bump prettier from 2.3.2 to 2.4.1 ([4db83aa](https://www.github.com/Fdawgs/ydh-logos/commit/4db83aa9bde9dc2860eb065eb09ae46c21387761))
+* **deps:** bump actions/checkout from 2.3.4 to 2.3.5 ([dbe22d8](https://www.github.com/Fdawgs/ydh-logos/commit/dbe22d89c3eec29a460e070e6e9f74db94e5c38f))
+* **deps:** bump actions/checkout from 2.3.5 to 2.4.0 ([05d9b24](https://www.github.com/Fdawgs/ydh-logos/commit/05d9b245a83b63b77254d7d20f5ec5c92ae4cede))
+* **deps:** bump actions/setup-node from 2.4.0 to 2.4.1 ([64aadab](https://www.github.com/Fdawgs/ydh-logos/commit/64aadab9e3fe106c348e141a4fb5437d56da800f))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([5841ac4](https://www.github.com/Fdawgs/ydh-logos/commit/5841ac4c5c809fb363ac2b76f571e5e7cb6fc263))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([7867668](https://www.github.com/Fdawgs/ydh-logos/commit/7867668c6485ad2b827d50e947025d108c57f1af))
+* **deps:** bump wagoid/commitlint-github-action from 4.1.1 to 4.1.5 ([5cdbd13](https://www.github.com/Fdawgs/ydh-logos/commit/5cdbd1322c613a74443239ddda4300b8e239e9f6))
+* **deps:** bump wagoid/commitlint-github-action from 4.1.5 to 4.1.9 ([3b380fd](https://www.github.com/Fdawgs/ydh-logos/commit/3b380fd27f47dfe9eec3f44da74eb3d3ebdb3370))
+
+
+### Miscellaneous
+
+* **.husky/.gitignore:** remove now redundant file ([72a790a](https://www.github.com/Fdawgs/ydh-logos/commit/72a790abd9a3754c8247487d35282aa5f9e3885d))
+* **.prettierrc:** enable `bracketsameline` option ([b917a76](https://www.github.com/Fdawgs/ydh-logos/commit/b917a76af5f67c1cb54452cb557cfa3de739a149))
+* **.prettierrc:** only enable `bracketsameline` for html ([476f04d](https://www.github.com/Fdawgs/ydh-logos/commit/476f04dd4ddce29c5239735d15c23e84f2850539))
+* **.prettierrc:** override defaults for html, css, and scss files ([#62](https://www.github.com/Fdawgs/ydh-logos/issues/62)) ([ece0af5](https://www.github.com/Fdawgs/ydh-logos/commit/ece0af55efb0746149eeae77ff63ba6f6429f23a))
+* **.vscode:** add `mhutchie.git-graph` extension ([7a590fa](https://www.github.com/Fdawgs/ydh-logos/commit/7a590fae9a84f67c2822e8226fa19834e5ce3a4d))
+* **.vscode:** remove deprecated settings ([#69](https://www.github.com/Fdawgs/ydh-logos/issues/69)) ([78a253e](https://www.github.com/Fdawgs/ydh-logos/commit/78a253eb0b1926041e656ff2cacbf9e490f0604d))
+
 ### [2.2.1](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.0...v2.2.1) (2021-09-06)
 
 
