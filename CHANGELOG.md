@@ -1,5 +1,34 @@
 # Changelog
 
+### [2.2.3](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.2...v2.2.3) (2021-12-03)
+
+
+### Continuous Integration
+
+* **spell-check:** do not run on draft prs ([#78](https://www.github.com/Fdawgs/ydh-logos/issues/78)) ([ecf28ad](https://www.github.com/Fdawgs/ydh-logos/commit/ecf28adf03522345dbd5a35d9c31be7e5ce09f0d))
+* trigger workflows when drafts marked as "ready to review" ([#80](https://www.github.com/Fdawgs/ydh-logos/issues/80)) ([9b4ae5d](https://www.github.com/Fdawgs/ydh-logos/commit/9b4ae5d83763d5776e942697e52206287936b461))
+
+
+### Documentation
+
+* **coc:** reduce verbosity ([e144d2b](https://www.github.com/Fdawgs/ydh-logos/commit/e144d2b372b6ef6447b3626a4f7973d56c7a291e))
+
+
+### Miscellaneous
+
+* ignore `.yarnclean` ([#85](https://www.github.com/Fdawgs/ydh-logos/issues/85)) ([a61c1e1](https://www.github.com/Fdawgs/ydh-logos/commit/a61c1e16c445587aa165274043a870423d0047d8))
+
+
+### Dependencies
+
+* **dependabot:** ignore minor and patch github-actions updates ([#81](https://www.github.com/Fdawgs/ydh-logos/issues/81)) ([35438ef](https://www.github.com/Fdawgs/ydh-logos/commit/35438ef87cd7971bcc4c33801104bd4a3fcd3328))
+* **dependabot:** ignore minor and patch release-please-action updates ([#88](https://www.github.com/Fdawgs/ydh-logos/issues/88)) ([4ae52da](https://www.github.com/Fdawgs/ydh-logos/commit/4ae52da3e772cab3875f929851abab6d553479b0))
+* **deps-dev:** bump @commitlint/cli from 14.1.0 to 15.0.0 ([ce76910](https://www.github.com/Fdawgs/ydh-logos/commit/ce76910f610fa1921e222af16120a145b952fb1a))
+* **deps-dev:** bump @commitlint/config-conventional ([d01e813](https://www.github.com/Fdawgs/ydh-logos/commit/d01e8139e7cc2df4b677fae023273350bab09d46))
+* **deps-dev:** bump prettier from 2.4.1 to 2.5.0 ([6326337](https://www.github.com/Fdawgs/ydh-logos/commit/632633795ad2380358f2a3e922204a293403f07a))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([c6975bd](https://www.github.com/Fdawgs/ydh-logos/commit/c6975bd43e3b45e59dc9eec1eef28462a9937ed8))
+* **deps:** bump peter-evans/create-pull-request from 3.10.1 to 3.11.0 ([529e437](https://www.github.com/Fdawgs/ydh-logos/commit/529e4375e24c598d5f6135674f4f8b543b8fc0fa))
+
 ### [2.2.2](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.1...v2.2.2) (2021-11-03)
 
 
