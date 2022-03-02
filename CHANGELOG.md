@@ -1,5 +1,50 @@
 # Changelog
 
+### [2.2.3](https://github.com/Fdawgs/ydh-logos/compare/v2.2.2...v2.2.3) (2022-03-02)
+
+
+### Documentation
+
+* **coc:** reduce verbosity ([e144d2b](https://github.com/Fdawgs/ydh-logos/commit/e144d2b372b6ef6447b3626a4f7973d56c7a291e))
+
+
+### Continuous Integration
+
+* remove spellcheck workflow ([#94](https://github.com/Fdawgs/ydh-logos/issues/94)) ([1c0efff](https://github.com/Fdawgs/ydh-logos/commit/1c0efffed8d4bf23fb04c28277883124205362fb))
+* **spell-check:** do not run on draft prs ([#78](https://github.com/Fdawgs/ydh-logos/issues/78)) ([ecf28ad](https://github.com/Fdawgs/ydh-logos/commit/ecf28adf03522345dbd5a35d9c31be7e5ce09f0d))
+* trigger workflows when drafts marked as "ready to review" ([#80](https://github.com/Fdawgs/ydh-logos/issues/80)) ([9b4ae5d](https://github.com/Fdawgs/ydh-logos/commit/9b4ae5d83763d5776e942697e52206287936b461))
+
+
+### Dependencies
+
+* **dependabot:** ignore minor and patch commit-lint updates ([#96](https://github.com/Fdawgs/ydh-logos/issues/96)) ([93e1eb7](https://github.com/Fdawgs/ydh-logos/commit/93e1eb71e44da99f34f03dbacd2c879ac836f4e1))
+* **dependabot:** ignore minor and patch github-actions updates ([#81](https://github.com/Fdawgs/ydh-logos/issues/81)) ([35438ef](https://github.com/Fdawgs/ydh-logos/commit/35438ef87cd7971bcc4c33801104bd4a3fcd3328))
+* **dependabot:** ignore minor and patch release-please-action updates ([#88](https://github.com/Fdawgs/ydh-logos/issues/88)) ([4ae52da](https://github.com/Fdawgs/ydh-logos/commit/4ae52da3e772cab3875f929851abab6d553479b0))
+* **dependabot:** major tags no longer need ignore support ([436d184](https://github.com/Fdawgs/ydh-logos/commit/436d1844fe617478ab8d02d422e08672e20a26be))
+* **dependabot:** use default open-pull-requests-limit value ([e475193](https://github.com/Fdawgs/ydh-logos/commit/e47519364ba8d6e7607ffa511e6fc6c4fbdc62d3))
+* **deps-dev:** bump @commitlint/cli from 14.1.0 to 15.0.0 ([ce76910](https://github.com/Fdawgs/ydh-logos/commit/ce76910f610fa1921e222af16120a145b952fb1a))
+* **deps-dev:** bump @commitlint/cli from 15.0.0 to 16.0.1 ([86b19e6](https://github.com/Fdawgs/ydh-logos/commit/86b19e6af9021ac033471e60e367ae5530f68c22))
+* **deps-dev:** bump @commitlint/config-conventional ([39998cb](https://github.com/Fdawgs/ydh-logos/commit/39998cbca1ba5d10ac6d100a81b4f150bbe67556))
+* **deps-dev:** bump @commitlint/config-conventional ([d01e813](https://github.com/Fdawgs/ydh-logos/commit/d01e8139e7cc2df4b677fae023273350bab09d46))
+* **deps-dev:** bump prettier from 2.4.1 to 2.5.0 ([6326337](https://github.com/Fdawgs/ydh-logos/commit/632633795ad2380358f2a3e922204a293403f07a))
+* **deps-dev:** bump prettier from 2.5.0 to 2.5.1 ([251d89e](https://github.com/Fdawgs/ydh-logos/commit/251d89e58a48393ef93ee2358cd9b419f62a0c1f))
+* **deps:** bump actions/checkout from 2 to 3 ([2b341c7](https://github.com/Fdawgs/ydh-logos/commit/2b341c76aa8cc2b617f5b632dc8943cf635ea5e7))
+* **deps:** bump actions/github-script from 5 to 6 ([b7bfea0](https://github.com/Fdawgs/ydh-logos/commit/b7bfea0fe33f7df49f27efc630f5025404f12b78))
+* **deps:** bump actions/setup-node from 2 to 3 ([43773d5](https://github.com/Fdawgs/ydh-logos/commit/43773d5fec66d6ec15c24124f5194cdc2bec0e00))
+* **deps:** bump GoogleCloudPlatform/release-please-action ([c6975bd](https://github.com/Fdawgs/ydh-logos/commit/c6975bd43e3b45e59dc9eec1eef28462a9937ed8))
+* **deps:** bump GoogleCloudPlatform/release-please-action from 2 to 3 ([d6cf8ca](https://github.com/Fdawgs/ydh-logos/commit/d6cf8ca4b1be012430a49e5b0e6dbbbfa4a9d125))
+* **deps:** bump peter-evans/create-pull-request from 3.10.1 to 3.11.0 ([529e437](https://github.com/Fdawgs/ydh-logos/commit/529e4375e24c598d5f6135674f4f8b543b8fc0fa))
+* **deps:** bump peter-evans/create-pull-request from 3.11.0 to 3.12.0 ([#90](https://github.com/Fdawgs/ydh-logos/issues/90)) ([6f42c82](https://github.com/Fdawgs/ydh-logos/commit/6f42c821897a0e4a8750005db51f3efd27b3b406))
+* **deps:** bump peter-evans/create-pull-request from 3.12.0 to 3.12.1 ([1862769](https://github.com/Fdawgs/ydh-logos/commit/1862769bd83f2197b71f4b9de4c53f9e586ed529))
+* **deps:** bump peter-evans/create-pull-request from 3.12.1 to 3.14.0 ([ebff55e](https://github.com/Fdawgs/ydh-logos/commit/ebff55e2a11efc0fc7098b325cf6fc88b2251e5e))
+
+
+### Miscellaneous
+
+* **.github:** remove trailing whitespace ([5326875](https://github.com/Fdawgs/ydh-logos/commit/5326875a908c45936c7a06073f7aba19b3838eea))
+* ignore `.yarnclean` ([#85](https://github.com/Fdawgs/ydh-logos/issues/85)) ([a61c1e1](https://github.com/Fdawgs/ydh-logos/commit/a61c1e16c445587aa165274043a870423d0047d8))
+* remove unused icons ([#103](https://github.com/Fdawgs/ydh-logos/issues/103)) ([d67e68f](https://github.com/Fdawgs/ydh-logos/commit/d67e68f0482e09e5a3cb63f6b74cdcb1733d53c3))
+
 ### [2.2.2](https://www.github.com/Fdawgs/ydh-logos/compare/v2.2.1...v2.2.2) (2021-11-03)
 
 
