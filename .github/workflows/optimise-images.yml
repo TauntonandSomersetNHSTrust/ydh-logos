@@ -19,7 +19,7 @@ jobs:
     build:
         name: Optimise Images
         runs-on: ubuntu-latest
-        # Only run on master repo on and PRs that match the master repo
+        # Only run on master repo and PRs that match the master repo
         if: >
             github.repository == 'Fdawgs/ydh-logos' &&
             (github.event_name != 'pull_request' ||
@@ -41,7 +41,7 @@ jobs:
               if: >
                   github.event_name != 'pull_request' &&
                   steps.calibre.outputs.markdown != ''
-              uses: peter-evans/create-pull-request@v3.14.0
+              uses: peter-evans/create-pull-request@v3
               with:
                   title: "chore: auto-compress images"
                   branch-suffix: timestamp
