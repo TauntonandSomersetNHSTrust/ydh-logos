@@ -1,34 +1,34 @@
 {
-  "name": "ydh-logos",
-  "version": "2.2.3",
-  "description": "Yeovil District Hospital NHSFT's Logos",
-  "main": "src/app.js",
-  "repository": "git+https://github.com/Fdawgs/ydh-logos.git",
-  "homepage": "https://github.com/Fdawgs/ydh-logos",
-  "bugs": {
-    "url": "https://github.com/Fdawgs/ydh-logos/issues"
-  },
-  "license": "OGL-UK-3.0",
-  "author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
-  "engines": {
-    "node": ">=12.0.0"
-  },
-  "scripts": {
-    "lint:prettier": "prettier . --write --ignore-unknown",
-    "lint:prettier:ci": "prettier . --check --ignore-unknown",
-    "prepare": "husky install && rm -rf .git/hooks && ln -s ../.husky .git/hooks",
-    "test": "npm run lint:prettier:ci"
-  },
-  "commitlint": {
-    "extends": [
-      "@commitlint/config-conventional"
-    ]
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^16.0.1",
-    "@commitlint/config-conventional": "^16.0.0",
-    "@prettier/plugin-xml": "^1.1.0",
-    "husky": "^7.0.4",
-    "prettier": "2.5.1"
-  }
+	"name": "ydh-logos",
+	"version": "2.2.3",
+	"description": "Yeovil District Hospital NHSFT's Logos",
+	"main": "src/app.js",
+	"repository": "git+https://github.com/Fdawgs/ydh-logos.git",
+	"homepage": "https://github.com/Fdawgs/ydh-logos",
+	"bugs": {
+		"url": "https://github.com/Fdawgs/ydh-logos/issues"
+	},
+	"license": "OGL-UK-3.0",
+	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
+	"engines": {
+		"node": ">=12.0.0"
+	},
+	"scripts": {
+		"lint:prettier": "prettier . --write --ignore-unknown",
+		"lint:prettier:ci": "prettier . --check --ignore-unknown",
+		"prepare": "husky install",
+		"test": "npm run lint:prettier:ci"
+	},
+	"commitlint": {
+		"extends": [
+			"@commitlint/config-conventional"
+		]
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^16.0.1",
+		"@commitlint/config-conventional": "^16.0.0",
+		"@prettier/plugin-xml": "^1.1.0",
+		"husky": "^7.0.4",
+		"prettier": "2.5.1"
+	}
 }
