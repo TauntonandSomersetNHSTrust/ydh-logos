@@ -1,5 +1,8 @@
 name: CI
 
+# **What it does**: Runs our tests.
+# **Why we have it**: We want our tests to pass before merging code.
+
 on:
     push:
         branches:
@@ -21,12 +24,17 @@ jobs:
         if: github.event.pull_request.draft == false
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v3
-            - uses: actions/setup-node@v3
+            - name: Check out repo
+              uses: actions/checkout@v3
+
+            - name: Setup Node
+              uses: actions/setup-node@v3
               with:
                   node-version: 16
+
             - name: Install
               run: npm install --ignore-scripts
+
             - name: Run Prettier
               run: npm run lint:prettier:ci
 
@@ -37,10 +45,13 @@ jobs:
             github.actor != 'dependabot[bot]'
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v3
+            - name: Check out repo
+              uses: actions/checkout@v3
               with:
                   fetch-depth: 0
-            - uses: wagoid/commitlint-github-action@v4
+
+            - name: Run Commitlint
+              uses: wagoid/commitlint-github-action@v4
               with:
                   configFile: ./package.json
 
@@ -52,12 +63,16 @@ jobs:
             github.event_name == 'pull_request'
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v3
-            - name: Save PR Number
+            - name: Check out repo
+              uses: actions/checkout@v3
+
+            - name: Save PR number
               run: |
                   mkdir -p ./pr
                   echo ${{ github.event.number }} > ./pr/NR
-            - uses: actions/upload-artifact@v2
+
+            - name: Upload PR number in artifact
+              uses: actions/upload-artifact@v2
               with:
                   name: pr
                   path: pr/
