@@ -54,7 +54,7 @@ jobs:
                   node-version: 16
 
             - name: Install
-              run: npm install --ignore-scripts
+              run: npm i --ignore-scripts
 
             - name: Run Prettier
               run: npm run lint:prettier:ci
