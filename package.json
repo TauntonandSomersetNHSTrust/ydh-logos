@@ -29,6 +29,6 @@
 		"@commitlint/config-conventional": "^16.0.0",
 		"@prettier/plugin-xml": "^2.0.1",
 		"husky": "^7.0.4",
-		"prettier": "2.6.1"
+		"prettier": "2.6.2"
 	}
 }
