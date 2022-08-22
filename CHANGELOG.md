@@ -1,5 +1,66 @@
 # Changelog
 
+## [2.2.4](https://github.com/Fdawgs/ydh-logos/compare/v2.2.3...v2.2.4) (2022-08-19)
+
+
+### Documentation
+
+* **readme:** remove snyk badge ([7a3013e](https://github.com/Fdawgs/ydh-logos/commit/7a3013ef1d27c78a71ed3a61aab71ff18709ddf3))
+
+
+### Continuous Integration
+
+* add dependency-review job ([02d72a5](https://github.com/Fdawgs/ydh-logos/commit/02d72a5e932b63e78283c6728319aa3979c80c73))
+* add job step names, workflow comments, and whitespace ([55253a5](https://github.com/Fdawgs/ydh-logos/commit/55253a55d7f9affa3549613a747831876a699d9c))
+* **automerge:** fix context ([5fa6cd2](https://github.com/Fdawgs/ydh-logos/commit/5fa6cd2a511413a683621982819d7c53e8ef9d58))
+* **automerge:** squash automerge prs ([#112](https://github.com/Fdawgs/ydh-logos/issues/112)) ([f734a88](https://github.com/Fdawgs/ydh-logos/commit/f734a887a488ef4523c3d5e2fb08cba4263b615c))
+* **cd:** update org name for release-please-action ([45c5e34](https://github.com/Fdawgs/ydh-logos/commit/45c5e34e9009946e8834f125a36c098d2a219359))
+* check `user.login` is dependabot instead of `actor` ([#120](https://github.com/Fdawgs/ydh-logos/issues/120)) ([73f5b99](https://github.com/Fdawgs/ydh-logos/commit/73f5b99fb961ded43519734d3611c4a382719c16))
+* **ci:** use `lts/*` for node setup in lint job ([738c741](https://github.com/Fdawgs/ydh-logos/commit/738c7410ec10789c40129374d39bcf3430747136))
+* **link-check:** replace `npx linkinator` call with github action ([07c9d4d](https://github.com/Fdawgs/ydh-logos/commit/07c9d4d7827a2fa9a406cc9eac95aaa5e6fd5dad))
+* only save pr number artifact for dependabot ([23092a2](https://github.com/Fdawgs/ydh-logos/commit/23092a290fa969878276a32decb78f269392a4af))
+* only trigger dependency-review on pr ([d39d50e](https://github.com/Fdawgs/ydh-logos/commit/d39d50e5a43bee1f6e1d6fb411f88d3b2527127c))
+* **optimise-images:** use major tag of `create-pull-request` ([#104](https://github.com/Fdawgs/ydh-logos/issues/104)) ([5edb8da](https://github.com/Fdawgs/ydh-logos/commit/5edb8da364c6d934a8db72e2d3540d62c7e79c4c))
+* reduce workflow permissions to minimum ([cd1bc11](https://github.com/Fdawgs/ydh-logos/commit/cd1bc114c93490fef3a0ca15aabe5ebed0eac7c7))
+* remove git credentials after checkout ([#123](https://github.com/Fdawgs/ydh-logos/issues/123)) ([f548616](https://github.com/Fdawgs/ydh-logos/commit/f5486167981bb715ee0add7bc5a625b4892d15d0))
+* replace workflow-run-cleanup-action with github concurrency ([9605678](https://github.com/Fdawgs/ydh-logos/commit/96056780ec486ca49165383879a25af72ebfec86))
+
+
+### Dependencies
+
+* **dependabot:** increase `open-pull-requests-limit` from 5 to 20 ([e307026](https://github.com/Fdawgs/ydh-logos/commit/e30702639d1bf41a2d726c62cf34754c05ad6b38))
+* **deps-dev:** add missing caret range for prettier ([d8204fe](https://github.com/Fdawgs/ydh-logos/commit/d8204fedca89ad0a7faf9cd0a6a58698d7bea09c))
+* **deps-dev:** bump @commitlint/cli from 16.3.0 to 17.0.2 ([#127](https://github.com/Fdawgs/ydh-logos/issues/127)) ([3d033b5](https://github.com/Fdawgs/ydh-logos/commit/3d033b58c6b0a48b4b88759cc84699ee8951e576))
+* **deps-dev:** bump @commitlint/config-conventional ([#125](https://github.com/Fdawgs/ydh-logos/issues/125)) ([aacc5ab](https://github.com/Fdawgs/ydh-logos/commit/aacc5aba1d47f6c0247980cc6f0456d641275755))
+* **deps-dev:** bump @prettier/plugin-xml from 1.2.0 to 2.0.1 ([f6462d0](https://github.com/Fdawgs/ydh-logos/commit/f6462d0b88d57b0db28b6f882e64fc787201e999))
+* **deps-dev:** bump husky from 7.0.4 to 8.0.1 ([#126](https://github.com/Fdawgs/ydh-logos/issues/126)) ([4af5ed1](https://github.com/Fdawgs/ydh-logos/commit/4af5ed1132f187e76d8ced636e317200cdbf85eb))
+* **deps-dev:** bump prettier from 2.5.1 to 2.6.1 ([d49e9e8](https://github.com/Fdawgs/ydh-logos/commit/d49e9e8d584f4f6e15553ec593390840f0eac5e4))
+* **deps-dev:** bump prettier from 2.6.1 to 2.6.2 ([#119](https://github.com/Fdawgs/ydh-logos/issues/119)) ([9cb3e84](https://github.com/Fdawgs/ydh-logos/commit/9cb3e843ac08cedd382dded7fc446770f2d40d85))
+* **deps:** bump actions/dependency-review-action from 1 to 2 ([#129](https://github.com/Fdawgs/ydh-logos/issues/129)) ([4b74f2f](https://github.com/Fdawgs/ydh-logos/commit/4b74f2fe4ad05b68966ec8b7a127f5a99a69dc34))
+* **deps:** bump actions/upload-artifact from 2 to 3 ([#117](https://github.com/Fdawgs/ydh-logos/issues/117)) ([f83ab42](https://github.com/Fdawgs/ydh-logos/commit/f83ab421c2ca727f8de5a3904fb18e0dcffcdfe1))
+* **deps:** bump peter-evans/create-pull-request from 3 to 4.0.1 ([a5e4304](https://github.com/Fdawgs/ydh-logos/commit/a5e43043ea0083cf991b274148305e49913ef675))
+* **deps:** bump peter-evans/create-pull-request from 4.0.1 to 4.0.2 ([#118](https://github.com/Fdawgs/ydh-logos/issues/118)) ([38062a0](https://github.com/Fdawgs/ydh-logos/commit/38062a0cfc05feb19332b824de4ff87572108bfc))
+* **deps:** bump peter-evans/create-pull-request from 4.0.2 to 4.0.3 ([#124](https://github.com/Fdawgs/ydh-logos/issues/124)) ([50dec52](https://github.com/Fdawgs/ydh-logos/commit/50dec52dce68922f6d8c7c164e2f5242be0f69b9))
+* **deps:** bump peter-evans/create-pull-request from 4.0.3 to 4.0.4 ([#130](https://github.com/Fdawgs/ydh-logos/issues/130)) ([0553d5a](https://github.com/Fdawgs/ydh-logos/commit/0553d5a7c89448f6a1a07ae445e63134452e457c))
+* **deps:** bump wagoid/commitlint-github-action from 4 to 5 ([#128](https://github.com/Fdawgs/ydh-logos/issues/128)) ([8666c7c](https://github.com/Fdawgs/ydh-logos/commit/8666c7c16d16d957d5986cae1f0343d1c2e04a7c))
+
+
+### Miscellaneous
+
+* **.*ignore:** add pnpm lockfile ([a010eec](https://github.com/Fdawgs/ydh-logos/commit/a010eec49871c343556c1c95e2dc634d5edffabf))
+* **.github/funding:** remove comments ([f3f7ecb](https://github.com/Fdawgs/ydh-logos/commit/f3f7ecb7424062307e5955610f84950bbd92e3e5))
+* **.github/workflows/link-check:** use `skip` input ([8c12568](https://github.com/Fdawgs/ydh-logos/commit/8c12568fbd3e3527445909d7378efa21bb83f875))
+* **.github/workflows/optimise-images:** reorder event list ([eda144e](https://github.com/Fdawgs/ydh-logos/commit/eda144e847a1a76286ffeb2139125fb74e0b1abd))
+* **.github:** add `FUNDING.yml` ([f398185](https://github.com/Fdawgs/ydh-logos/commit/f39818588dc1ad988e7db7c0fe2250f0135b2c4d))
+* **.gitignore:** use latest github ignore template ([dc0e95d](https://github.com/Fdawgs/ydh-logos/commit/dc0e95ddd6f6f91fdae592e729734d522f3060d0))
+* **.prettierignore:** add new paths from `.gitignore` ([770be50](https://github.com/Fdawgs/ydh-logos/commit/770be50ce6365ecda541b532685458b06f5e9a81))
+* **bug_report:** use node 18 as placeholder for `node-version` ([e230471](https://github.com/Fdawgs/ydh-logos/commit/e230471b1f27269d96ac762e87825e50b9b7cb72))
+* **ci:** remove quotation marks from step name ([f7ee68d](https://github.com/Fdawgs/ydh-logos/commit/f7ee68d1d0a4dc3a2e9a6f505b293156a671acac))
+* **images:** compress images ([#131](https://github.com/Fdawgs/ydh-logos/issues/131)) ([fef53f4](https://github.com/Fdawgs/ydh-logos/commit/fef53f49907b8b3a19a2a3cc2b1e278139722ae4))
+* **scripts:** remove redundant gitkraken fix from prepare script ([#106](https://github.com/Fdawgs/ydh-logos/issues/106)) ([51ffb3b](https://github.com/Fdawgs/ydh-logos/commit/51ffb3b08ab9308bd3a94ba0cd595b53343116ea))
+* **scripts:** use shorter arg aliases ([6f84d78](https://github.com/Fdawgs/ydh-logos/commit/6f84d7828218aa581f8eee567eb00915ea20ff76))
+* use npm install alias ([5160ed3](https://github.com/Fdawgs/ydh-logos/commit/5160ed3ad13ca8b4a4d11ffce86f0479bc7d3195))
+
 ### [2.2.3](https://github.com/Fdawgs/ydh-logos/compare/v2.2.2...v2.2.3) (2022-03-02)
 
 
