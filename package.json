@@ -12,7 +12,7 @@
 	"license": "OGL-UK-3.0",
 	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
 	"engines": {
-		"node": ">=12.0.0"
+		"node": ">=14.0.0"
 	},
 	"scripts": {
 		"lint:prettier": "prettier . -w -u",
