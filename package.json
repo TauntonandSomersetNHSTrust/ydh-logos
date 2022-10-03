@@ -1,6 +1,6 @@
 {
 	"name": "ydh-logos",
-	"version": "2.2.4",
+	"version": "3.0.0",
 	"description": "Yeovil District Hospital NHSFT's Logos",
 	"private": true,
 	"main": "src/app.js",
