@@ -2,6 +2,7 @@
 	"name": "ydh-logos",
 	"version": "2.2.4",
 	"description": "Yeovil District Hospital NHSFT's Logos",
+	"private": true,
 	"main": "src/app.js",
 	"repository": "git+https://github.com/Fdawgs/ydh-logos.git",
 	"homepage": "https://github.com/Fdawgs/ydh-logos",
@@ -11,7 +12,7 @@
 	"license": "OGL-UK-3.0",
 	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
 	"engines": {
-		"node": ">=12.0.0"
+		"node": ">=14.0.0"
 	},
 	"scripts": {
 		"lint:prettier": "prettier . -w -u",
@@ -25,9 +26,9 @@
 		]
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^17.0.2",
-		"@commitlint/config-conventional": "^17.0.2",
+		"@commitlint/cli": "^17.1.2",
+		"@commitlint/config-conventional": "^17.1.0",
 		"husky": "^8.0.1",
-		"prettier": "^2.6.2"
+		"prettier": "^2.7.1"
 	}
 }
