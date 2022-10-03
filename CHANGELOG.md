@@ -1,5 +1,44 @@
 # Changelog
 
+## [3.0.0](https://github.com/Fdawgs/ydh-logos/compare/v2.2.4...v3.0.0) (2022-10-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for EOL node 12
+
+### Features
+
+* **images:** add clearer, upscaled version of ydh nhsft logo ([#134](https://github.com/Fdawgs/ydh-logos/issues/134)) ([4ff7542](https://github.com/Fdawgs/ydh-logos/commit/4ff75420cae1cf3b55e303919d56bfbee435b469))
+
+
+### Improvements
+
+* **images:** compress svg files ([ec73127](https://github.com/Fdawgs/ydh-logos/commit/ec731273270c358e1538ad92f3a833d41125a058))
+
+
+### Documentation
+
+* use shorter urls ([254635a](https://github.com/Fdawgs/ydh-logos/commit/254635a95d1f621628100813c3596700f4576d66))
+
+
+### Dependencies
+
+* **deps-dev:** bump dev dependencies ([27419a2](https://github.com/Fdawgs/ydh-logos/commit/27419a2cc77e70b4860794453203c2cb9283ac8d))
+* **deps:** bump peter-evans/create-pull-request from 4.0.4 to 4.1.1 ([#135](https://github.com/Fdawgs/ydh-logos/issues/135)) ([6487371](https://github.com/Fdawgs/ydh-logos/commit/648737146fbac87b070382491e8c56b184730e7d))
+* **deps:** bump peter-evans/create-pull-request from 4.1.1 to 4.1.3 ([#138](https://github.com/Fdawgs/ydh-logos/issues/138)) ([66c7ffd](https://github.com/Fdawgs/ydh-logos/commit/66c7ffd13165c5a91f91485853346de11af6ce52))
+
+
+### Miscellaneous
+
+* **.husky:** shell path and arg updates ([#132](https://github.com/Fdawgs/ydh-logos/issues/132)) ([4ba3db1](https://github.com/Fdawgs/ydh-logos/commit/4ba3db1b188f5eb073142398af13307efe9f5e3e))
+* **.npmrc:** disable package-lock generation ([845607f](https://github.com/Fdawgs/ydh-logos/commit/845607f36da5e033060d693abbe72bbd7d4aa290))
+* **.vscode/extensions:** remove unmaintained extension ([8156071](https://github.com/Fdawgs/ydh-logos/commit/8156071d7c9fdd49f81238baabedcb40115d8ebe))
+* **.vscode:** add `redhat.vscode-xml` as default xml formatter ([317d380](https://github.com/Fdawgs/ydh-logos/commit/317d380e2590fb61220e308cb66c6ceb6c4f32f0))
+* drop support for node 12 ([5a4ea33](https://github.com/Fdawgs/ydh-logos/commit/5a4ea33d8699613ea96ee9fc63d6515747cf6be0))
+* **LICENSE:** remove trailing whitespace ([10f7a2a](https://github.com/Fdawgs/ydh-logos/commit/10f7a2a3bad00eac8e05b5ae1a85b7deecd95f8b))
+* **package:** set `"private": true` to prevent pub to npm ([ca0e685](https://github.com/Fdawgs/ydh-logos/commit/ca0e685161cd26a314ded9f8dee2027e75179274))
+
 ## [2.2.4](https://github.com/Fdawgs/ydh-logos/compare/v2.2.3...v2.2.4) (2022-08-19)
 
 ### Documentation
