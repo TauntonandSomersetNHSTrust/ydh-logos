@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.1](https://github.com/Fdawgs/ydh-logos/compare/v3.0.0...v3.0.1) (2022-10-06)
+
+
+### Miscellaneous
+
+* **.github:** fix link ([23c6116](https://github.com/Fdawgs/ydh-logos/commit/23c6116713ce63516251489bd003add1d069d5d1))
+
+
+### Continuous Integration
+
+* **cd:** create release asset ([#141](https://github.com/Fdawgs/ydh-logos/issues/141)) ([78060fa](https://github.com/Fdawgs/ydh-logos/commit/78060fae9b85dfa1d5c65641b2040b64614c42ad))
+
 ## [3.0.0](https://github.com/Fdawgs/ydh-logos/compare/v2.2.4...v3.0.0) (2022-10-03)
 
 
