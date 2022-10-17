@@ -13,6 +13,10 @@
 
 This repo contains [Yeovil District Hospital NHSFT](https://yeovilhospital.co.uk/)'s logos, for use in applications and websites.
 
+The NHS logo is protected by law. It is a UK trade mark owned by the Secretary of State for Health and Social Care. It is also protected by copyright.
+
+Yeovil District Hospital NHS Foundation Trust's logos are protected by and subject to all applicable English or international intellectual property laws including copyright.
+
 ## License
 
 `ydh-logos` is licensed under the [Open Government Licence v3.0](./LICENSE).
