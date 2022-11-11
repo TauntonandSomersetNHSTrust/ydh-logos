@@ -17,6 +17,18 @@ The NHS logo is protected by law. It is a UK trade mark owned by the Secretary o
 
 Yeovil District Hospital NHS Foundation Trust's logos are protected by and subject to all applicable English or international intellectual property laws including copyright.
 
+## Corporate Colours
+
+| Colour     | Hex Code | RGB          |
+| ---------- | -------- | ------------ |
+| Purple     | #6d387d  | (109,56,125) |
+| Yellow     | #bfd730  | (191,215,48) |
+| Dark Blue  | #29327e  | (41,50,126)  |
+| Light Blue | #35a8df  | (53,168,223) |
+| Red        | #be1824  | (190,24,36)  |
+| Pink       | #e61c74  | (230,28,116) |
+| Amber      | #F59409  | (245,148,9)  |
+
 ## License
 
 `ydh-logos` is licensed under the [Open Government Licence v3.0](./LICENSE).
