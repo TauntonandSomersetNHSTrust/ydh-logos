@@ -27,7 +27,7 @@ Yeovil District Hospital NHS Foundation Trust's logos are protected by and subje
 | Light Blue | #35a8df  | (53,168,223) |
 | Red        | #be1824  | (190,24,36)  |
 | Pink       | #e61c74  | (230,28,116) |
-| Amber      | #F59409  | (245,148,9)  |
+| Amber      | #f59409  | (245,148,9)  |
 
 ## License
 
