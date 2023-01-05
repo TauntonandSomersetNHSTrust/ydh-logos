@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.2](https://github.com/Fdawgs/ydh-logos/compare/v3.0.1...v3.0.2) (2023-01-05)
+
+
+### Dependencies
+
+* **deps:** bump actions/dependency-review-action from 2 to 3 ([#145](https://github.com/Fdawgs/ydh-logos/issues/145)) ([d332293](https://github.com/Fdawgs/ydh-logos/commit/d3322936d93c110055ee88cc5dc667f0dd53f78c))
+* **deps:** bump peter-evans/create-pull-request from 4.1.3 to 4.2.0 ([#144](https://github.com/Fdawgs/ydh-logos/issues/144)) ([522d5b2](https://github.com/Fdawgs/ydh-logos/commit/522d5b2fce197c9f5dddb543f35b1cc6125e9c42))
+* **deps:** bump peter-evans/create-pull-request from 4.2.0 to 4.2.1 ([#146](https://github.com/Fdawgs/ydh-logos/issues/146)) ([e98b1d0](https://github.com/Fdawgs/ydh-logos/commit/e98b1d03d7bcd3c0f1f513937ae0c8999bcb4c1d))
+* **deps:** bump peter-evans/create-pull-request from 4.2.1 to 4.2.3 ([#147](https://github.com/Fdawgs/ydh-logos/issues/147)) ([62ebb3b](https://github.com/Fdawgs/ydh-logos/commit/62ebb3b524d873c3955c6bd41eda061a1da9428e))
+
+
+### Documentation
+
+* **readme:** add copyright information ([#142](https://github.com/Fdawgs/ydh-logos/issues/142)) ([88bd063](https://github.com/Fdawgs/ydh-logos/commit/88bd0637dda211963b22521d415c14c6a8dbd720))
+* **readme:** add corporate colours section and table ([b924393](https://github.com/Fdawgs/ydh-logos/commit/b92439353f977f5e6a693fbd84fcf3a815cd855b))
+* **readme:** capitalisation fix ([2608a16](https://github.com/Fdawgs/ydh-logos/commit/2608a1689f1763898c32844b80d190903579d53d))
+* update contact details ([3cdcdd8](https://github.com/Fdawgs/ydh-logos/commit/3cdcdd8151b0758616791117932f717eb2630ed8))
+
 ## [3.0.1](https://github.com/Fdawgs/ydh-logos/compare/v3.0.0...v3.0.1) (2022-10-06)
 
 
