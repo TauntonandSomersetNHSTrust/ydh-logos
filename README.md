@@ -9,7 +9,7 @@
 
 > Yeovil District Hospital NHSFT's Logos
 
-## Intro
+## Overview
 
 This repo contains [Yeovil District Hospital NHSFT](https://yeovilhospital.co.uk/)'s logos, for use in applications and websites.
 
