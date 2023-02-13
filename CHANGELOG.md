@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.3](https://github.com/Fdawgs/ydh-logos/compare/v3.0.2...v3.0.3) (2023-02-13)
+
+
+### Documentation
+
+* **readme:** rename intro to overview ([d57ff82](https://github.com/Fdawgs/ydh-logos/commit/d57ff82acf81cac8681a02f3f756f6cfc32d6132))
+* **readme:** use sentence case for headings ([8d33e7c](https://github.com/Fdawgs/ydh-logos/commit/8d33e7c3eb2fee8f5acc92647b649fcffae616bf))
+
+
+### Continuous integration
+
+* **cd:** use sentence case for changelog headings ([693c926](https://github.com/Fdawgs/ydh-logos/commit/693c92699c86642d05a393107062c9fe2941f5c5))
+
+
+### Dependencies
+
+* **deps-dev:** bump dev dependencies ([742ffac](https://github.com/Fdawgs/ydh-logos/commit/742ffac5ee58e858f348a87bf49ecbc862f224b1))
+
 ## [3.0.2](https://github.com/Fdawgs/ydh-logos/compare/v3.0.1...v3.0.2) (2023-01-05)
 
 
