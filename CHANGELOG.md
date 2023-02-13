@@ -289,7 +289,7 @@
 * fix syntax ([13c0425](https://github.com/Fdawgs/ydh-logos/commit/13c0425395c956a9198eed1b8eb403a312409dd5))
 * **link-check:** fix skip regex ([73e4fb4](https://github.com/Fdawgs/ydh-logos/commit/73e4fb45fe479b6fc0a3ab90ef67eab37b603a69))
 * use nodejs v16 for workflows ([86baae7](https://github.com/Fdawgs/ydh-logos/commit/86baae76bbd84ac4b20df85027b3c888f950536f))
-* **workflows:** run only on push and pulls to master branch ([9ddeda7](https://github.com/Fdawgs/ydh-logos/commit/9ddeda76846bdcc4ad7be0400a1a1f7bc5b5c5ba))
+* **workflows:** run only on push and pulls to main branch ([9ddeda7](https://github.com/Fdawgs/ydh-logos/commit/9ddeda76846bdcc4ad7be0400a1a1f7bc5b5c5ba))
 
 ### Documentation
 
