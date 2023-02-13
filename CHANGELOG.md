@@ -26,7 +26,7 @@
 * **.github:** fix link ([23c6116](https://github.com/Fdawgs/ydh-logos/commit/23c6116713ce63516251489bd003add1d069d5d1))
 
 
-### Continuous Integration
+### Continuous integration
 
 * **cd:** create release asset ([#141](https://github.com/Fdawgs/ydh-logos/issues/141)) ([78060fa](https://github.com/Fdawgs/ydh-logos/commit/78060fae9b85dfa1d5c65641b2040b64614c42ad))
 
@@ -75,7 +75,7 @@
 
 * **readme:** remove snyk badge ([7a3013e](https://github.com/Fdawgs/ydh-logos/commit/7a3013ef1d27c78a71ed3a61aab71ff18709ddf3))
 
-### Continuous Integration
+### Continuous integration
 
 * add dependency-review job ([02d72a5](https://github.com/Fdawgs/ydh-logos/commit/02d72a5e932b63e78283c6728319aa3979c80c73))
 * add job step names, workflow comments, and whitespace ([55253a5](https://github.com/Fdawgs/ydh-logos/commit/55253a55d7f9affa3549613a747831876a699d9c))
@@ -132,7 +132,7 @@
 
 * **coc:** reduce verbosity ([e144d2b](https://github.com/Fdawgs/ydh-logos/commit/e144d2b372b6ef6447b3626a4f7973d56c7a291e))
 
-### Continuous Integration
+### Continuous integration
 
 * remove spellcheck workflow ([#94](https://github.com/Fdawgs/ydh-logos/issues/94)) ([1c0efff](https://github.com/Fdawgs/ydh-logos/commit/1c0efffed8d4bf23fb04c28277883124205362fb))
 * **spell-check:** do not run on draft prs ([#78](https://github.com/Fdawgs/ydh-logos/issues/78)) ([ecf28ad](https://github.com/Fdawgs/ydh-logos/commit/ecf28adf03522345dbd5a35d9c31be7e5ce09f0d))
@@ -169,7 +169,7 @@
 
 ### [2.2.2](https://github.com/Fdawgs/ydh-logos/compare/v2.2.1...v2.2.2) (2021-11-03)
 
-### Continuous Integration
+### Continuous integration
 
 * **automerge:** update location of octokit rest methods ([e74d270](https://github.com/Fdawgs/ydh-logos/commit/e74d270b8f4a433c17a68eaddf7c5fc17505a548))
 
@@ -207,7 +207,7 @@
 
 * re-compress favicon files ([#61](https://github.com/Fdawgs/ydh-logos/issues/61)) ([2c611bf](https://github.com/Fdawgs/ydh-logos/commit/2c611bfb61867ce326558f4feb87ee6e46156494))
 
-### Continuous Integration
+### Continuous integration
 
 * **ci:** revert to workflow-run-clean-action from github concurrency ([25b7f61](https://github.com/Fdawgs/ydh-logos/commit/25b7f6191ee168e43346adaeb877737499369fa0))
 * **ci:** use github concurrency ([#59](https://github.com/Fdawgs/ydh-logos/issues/59)) ([2926e27](https://github.com/Fdawgs/ydh-logos/commit/2926e27329a25e27db8bc4b3edf527263bff2ef2))
@@ -228,7 +228,7 @@
 
 * **vscode:** remove user space config setting ([1d53da3](https://github.com/Fdawgs/ydh-logos/commit/1d53da3a17e651caa7024b8c57ebc521a326731a))
 
-### Continuous Integration
+### Continuous integration
 
 * **cd:** remove leftover jobs ([736c2b2](https://github.com/Fdawgs/ydh-logos/commit/736c2b29245f447cf7952e508917db3fa3bafba2))
 
@@ -250,7 +250,7 @@
 
 * **images:** add nhsft logo ([#43](https://github.com/Fdawgs/ydh-logos/issues/43)) ([c0eed52](https://github.com/Fdawgs/ydh-logos/commit/c0eed52f04de977908457d6f78019f429c270906))
 
-### Continuous Integration
+### Continuous integration
 
 * **cd:** move perf optimizations and refactoring into same section ([b8a3b8c](https://github.com/Fdawgs/ydh-logos/commit/b8a3b8c4a9c0bb6f6f6fee30a82116c842fce487))
 * fix key usage in `action/setup-node` ([50a0721](https://github.com/Fdawgs/ydh-logos/commit/50a072150aa5828093551634efb63f0865137d95))
@@ -284,7 +284,7 @@
 * **package:** remove unused script ([47e6402](https://github.com/Fdawgs/ydh-logos/commit/47e6402e6d2f2508089cd9e286efb6233162d71a))
 * remove support for nodejs v10 ([31e1f85](https://github.com/Fdawgs/ydh-logos/commit/31e1f85bda0f426004d205b2173b8b80035aa1a9))
 
-### Continuous Integration
+### Continuous integration
 
 * fix syntax ([13c0425](https://github.com/Fdawgs/ydh-logos/commit/13c0425395c956a9198eed1b8eb403a312409dd5))
 * **link-check:** fix skip regex ([73e4fb4](https://github.com/Fdawgs/ydh-logos/commit/73e4fb45fe479b6fc0a3ab90ef67eab37b603a69))
@@ -317,7 +317,7 @@
 * **prettierignore:** add lock files ([893c402](https://github.com/Fdawgs/ydh-logos/commit/893c4026dade5743fe0ce996baf09952046ac6b9))
 * **workflows:** remove whitespace ([21b3fe0](https://github.com/Fdawgs/ydh-logos/commit/21b3fe058605b1ea1764c845be0c09f67ad25093))
 
-### Continuous Integration
+### Continuous integration
 
 * **automerge:** move automerge job into new workflow ([9211c22](https://github.com/Fdawgs/ydh-logos/commit/9211c225cf23fa6b33e94890cd6efe476de283e2))
 * **ci:** ignore dependabot prs for commit message linting ([91333cd](https://github.com/Fdawgs/ydh-logos/commit/91333cdd9069848875032a4ecf08a3fe4753342b))
@@ -343,7 +343,7 @@
 * **deps:** bump GoogleCloudPlatform/release-please-action ([3789a97](https://github.com/Fdawgs/ydh-logos/commit/3789a97c881862458b3d6576601119c644889e91))
 * **deps:** bump wagoid/commitlint-github-action from v3.0.1 to v3.0.6 ([8316ba9](https://github.com/Fdawgs/ydh-logos/commit/8316ba9ac93e3d5ef6c629dd62266f62c5be9db2))
 
-### Continuous Integration
+### Continuous integration
 
 * add workflows ([880c6fb](https://github.com/Fdawgs/ydh-logos/commit/880c6fbd7a6efb07bef2115fbd73b4a709df0e73))
 * **workflows:** add image optimisation wf ([b4cddb2](https://github.com/Fdawgs/ydh-logos/commit/b4cddb252a3386f1b18521fc99bb48e9861d11c4))
