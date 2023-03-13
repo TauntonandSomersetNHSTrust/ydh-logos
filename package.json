@@ -11,6 +11,7 @@
 	},
 	"license": "OGL-UK-3.0",
 	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
+	"funding": "https://justgiving.com/yeovilhospital",
 	"engines": {
 		"node": ">=14.0.0"
 	},
