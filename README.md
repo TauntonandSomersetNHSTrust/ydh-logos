@@ -1,3 +1,7 @@
+> **Note**
+> Maintenance of this repository has been discontinued as of 2023-03-24.
+> [Yeovil District Hospital NHS Foundation Trust is due to merge with Somerset NHS Foundation Trust](https://yeovilhospital.co.uk/better-care-for-local-people-the-merger-of-yeovil-hospital-nhs-foundation-trust-with-somerset-nhs-foundation-trust/) on 2023-04-01. YDH NHSFT will no longer exist as an organisation and the branding will be retired.
+
 <a href="https://yeovilhospital.co.uk/">
 	<img alttext="Yeovil District Hospital logo" src="https://github.com/TauntonandSomersetNHSTrust/ydh-logos/raw/HEAD/images/ydh-full-logo-transparent-background.svg" width="480" />
 </a>
