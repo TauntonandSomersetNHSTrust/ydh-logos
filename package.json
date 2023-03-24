@@ -4,13 +4,13 @@
 	"description": "Yeovil District Hospital NHSFT's logos",
 	"private": true,
 	"main": "src/app.js",
-	"repository": "git+https://github.com/Fdawgs/ydh-logos.git",
-	"homepage": "https://github.com/Fdawgs/ydh-logos",
+	"repository": "git+https://github.com/TauntonandSomersetNHSTrust/ydh-logos.git",
+	"homepage": "https://github.com/TauntonandSomersetNHSTrust/ydh-logos",
 	"bugs": {
-		"url": "https://github.com/Fdawgs/ydh-logos/issues"
+		"url": "https://github.com/TauntonandSomersetNHSTrust/ydh-logos/issues"
 	},
 	"license": "OGL-UK-3.0",
-	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
+	"author": "Frazer Smith <frazer.smith@somersetft.nhs.uk>",
 	"funding": "https://justgiving.com/yeovilhospital",
 	"engines": {
 		"node": ">=14.0.0"

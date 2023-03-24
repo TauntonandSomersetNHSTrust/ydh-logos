@@ -1,10 +1,10 @@
 <a href="https://yeovilhospital.co.uk/">
-	<img alttext="Yeovil District Hospital logo" src="https://github.com/Fdawgs/ydh-logos/raw/HEAD/images/ydh-full-logo-transparent-background.svg" width="480" />
+	<img alttext="Yeovil District Hospital logo" src="https://github.com/TauntonandSomersetNHSTrust/ydh-logos/raw/HEAD/images/ydh-full-logo-transparent-background.svg" width="480" />
 </a>
 
 # Yeovil District Hospital NHS Foundation Trust - Logos
 
-[![GitHub Release](https://img.shields.io/github/release/Fdawgs/ydh-logos.svg)](https://github.com/Fdawgs/ydh-logos/releases/latest/)
+[![GitHub Release](https://img.shields.io/github/release/TauntonandSomersetNHSTrust/ydh-logos.svg)](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/releases/latest/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
 > Yeovil District Hospital NHSFT's logos
