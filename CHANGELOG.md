@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.0.4](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/compare/v3.0.3...v3.0.4) (2023-03-24)
+
+
+### Continuous integration
+
+* **dependabot:** change commit message prefix for gh actions to `ci` ([#154](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/issues/154)) ([c5cd36c](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/c5cd36c5d46d89ee6c4b7a6ed21f152c20297676))
+* **deps:** bump peter-evans/create-pull-request from 4.2.3 to 4.2.4 ([#156](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/issues/156)) ([d2d27a7](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/d2d27a76af485699486bbad0cdf1dd58b479efff))
+
+
+### Miscellaneous
+
+* ignore bun lockfile ([#152](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/issues/152)) ([8453b99](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/8453b99469d42a9365b2e1e53e0d5e6e513fdbbb))
+* **package:** add funding url ([13d25e3](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/13d25e349229c0481de82bd80f6341201f27edda))
+* update repo paths to new sft org ([518c875](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/518c875b2fa493d0a10a4326007a93215856ce50))
+
+
+### Documentation
+
+* **contributing:** add link to conventional config ([#155](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/issues/155)) ([f949451](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/f949451ae3ba03063b9b646cdd48aa2142194fd9))
+* **readme:** add archive notice ([243acff](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/commit/243acffb44785e1247836013f9471fc9d97ef5eb))
+
 ## [3.0.3](https://github.com/TauntonandSomersetNHSTrust/ydh-logos/compare/v3.0.2...v3.0.3) (2023-02-13)
 
 
